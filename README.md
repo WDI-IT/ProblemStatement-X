@@ -4,7 +4,6 @@ Problem Statement X (python)
 Objectives:
 The goal is to test your skill in the following modules.
 1. Flask API
-2. Pandas
 3. Data Structures and Algorithms
 4. String Manupulation
 5. Automation
